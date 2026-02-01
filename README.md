@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavish Rajakaruna | Engineering Undergraduate USJ | Computer Engineering
+- 👋 Hi, I’m Kavish Rajakaruna | Software Engineer 
 
 <!---
 Kavish-IR/Kavish-IR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
